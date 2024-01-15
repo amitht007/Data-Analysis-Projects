@@ -1,1 +1,4 @@
-
+Folder Contains 3 Uploaded Projects till this point.
+1. Students Performance Report
+2. Super Market Sales Perforamnce
+3. NCRB(Crime Record Analysis)
